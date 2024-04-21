@@ -55,8 +55,3 @@ We welcome contributions! If you'd like to contribute to J.A.R.V.I.S, please fol
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
-
-Remember to replace placeholders like `[briefly describe the primary purpose or functionality of your project]` with a concise description, and provide links, logos, or images as needed.
-
-Feel free to customize the template further based on the specifics of your project. This should give you a professional and informative `README.md` for your J.A.R.V.I.S project.
