@@ -1,9 +1,7 @@
-![J.A.R.V.I.S Logo](./Screenshot%202024-02-09%20214746.png)
 
-```markdown
 # J.A.R.V.I.S - Just A Rather Very Intelligent System
 
-
+![J.A.R.V.I.S Logo](./Screenshot%202024-02-09%20214746.png)
 
 ## Overview
 
